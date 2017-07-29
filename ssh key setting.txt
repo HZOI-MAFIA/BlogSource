@@ -1,0 +1,1 @@
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com" (将邮箱替换为你自己的地址)
